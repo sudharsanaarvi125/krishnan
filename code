@@ -1,0 +1,5 @@
+def fruits():
+  for i in range(len(fruits)):
+  fruits = ["apple","orange",cherry
+     print(fruits[i])
+fruits()
